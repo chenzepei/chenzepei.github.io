@@ -9,7 +9,8 @@
     var xmpNode = document.getElementById('my_content');
     xmpNode.appendChild(document.createTextNode(this.responseText));
   }
-  req.open('GET', 'articles/t1.md', false);
+  var url = location.search.substr(1);
+  req.open('GET', url, false);
   req.send();
 </script>
 <script src="strapdown/v/0.2/strapdown.js"></script>
