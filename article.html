@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<xmp id="my_content" theme="cyborg" style="display:none;">
+</xmp>
+
+<script type="text/javascript">
+  var req = new XMLHttpRequest();
+  req.onload = function() {
+    var xmpNode = document.getElementById('my_content');
+    xmpNode.appendChild(document.createTextNode(this.responseText));
+  }
+  req.open('GET', 'articles/t1.md', false);
+  req.send();
+</script>
+<script src="strapdown/v/0.2/strapdown.js"></script>
+</html>
