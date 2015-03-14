@@ -6,4 +6,4 @@
 
 雜文
 ----------
-1. [怎樣用Github建立自己的文章庫](articles/怎樣用Github建立自己的文章庫.md)
+1. [怎樣用Github建立自己的文章庫](../index.html?articles/怎樣用Github建立自己的文章庫.md)
