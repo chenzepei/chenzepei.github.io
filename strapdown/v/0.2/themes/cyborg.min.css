@@ -117,12 +117,12 @@ h1{font-size:36px;line-height:40px;}
 h2{font-size:30px;line-height:40px;}
 h3{font-size:24px;line-height:40px;}
 h4{font-size:18px;line-height:20px;}
-h5{font-size:14px;line-height:20px;}
-h6{font-size:12px;line-height:20px;}
+h5{font-size:16px;line-height:20px;}
+h6{font-size:14px;line-height:20px;}
 h1 small{font-size:24px;}
 h2 small{font-size:18px;}
-h3 small{font-size:14px;}
-h4 small{font-size:14px;}
+h3 small{font-size:16px;}
+h4 small{font-size:16px;}
 .page-header{padding-bottom:9px;margin:20px 0 30px;border-bottom:1px solid #eeeeee;}
 ul,ol{padding:0;margin:0 0 10px 25px;}
 ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
@@ -154,7 +154,7 @@ pre code{padding:0;color:inherit;background-color:transparent;border:0;}
 form{margin:0 0 20px;}
 fieldset{padding:0;margin:0;border:0;}
 legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:40px;color:#282828;border:0;border-bottom:1px solid #e5e5e5;}legend small{font-size:15px;color:#adafae;}
-label,input,button,select,textarea{font-size:14px;font-weight:normal;line-height:20px;}
+label,input,button,select,textarea{font-size:16px;font-weight:normal;line-height:20px;}
 input,button,select,textarea{font-family:'Droid Sans',sans-serif;}
 label{display:block;margin-bottom:5px;}
 select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="color"],.uneditable-input{display:inline-block;height:20px;padding:4px 6px;margin-bottom:9px;font-size:14px;line-height:20px;color:#999999;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
