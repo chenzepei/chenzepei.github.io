@@ -13,7 +13,9 @@
 Just do it.
 
 ###新建Repository
-Repository name 一定是 {UserName}.github.io，不知道我說什麼的，看一下我的[Github](https://github.com/chenzepei/chenzepei.github.io)。這樣做之後，你就有了一個個人網站啦！雖然什麼都沒有，但是你可以寫啊。馬上上傳一個index.html爽一下先啦。
+Repository name 一定是 {UserName}.github.io，不知道我說什麼的，
+看一下我的[Github](https://github.com/chenzepei/chenzepei.github.io)。
+這樣做之後，你就有了一個個人網站啦！雖然什麼都沒有，但是你可以寫啊。馬上上傳一個index.html爽一下先啦。
 
 ###使用Strapdownjs來顯示Markdown
 我先說一下我對這個網站的構思。很久很久以前，大家的靜態網站是用Html做的，
